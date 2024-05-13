@@ -1,9 +1,9 @@
-import Persons from './Persons';
+import Element from './Element';
 import './App.css';
 
 function App() {
   return (
-    <Persons />
+    <Element />
   );
 }
 
