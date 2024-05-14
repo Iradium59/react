@@ -1,9 +1,9 @@
-import Element from './Element';
+import Fizzbuzz from './Fizzbuzz';
 import './App.css';
 
 function App() {
   return (
-    <Element />
+    <Fizzbuzz maxValue={50}/>
   );
 }
 
