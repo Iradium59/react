@@ -1,9 +1,9 @@
-import Multiplication from './Multiplication';
-import './App.css';
+import React, { useState } from 'react';
+import Book from './Book';
 
 function App() {
   return (
-    <Multiplication value={20}/>
+    <Book />
   );
 }
 
