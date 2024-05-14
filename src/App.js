@@ -1,9 +1,9 @@
-import Fullname from './Fullname';
+import Multiplication from './Multiplication';
 import './App.css';
 
 function App() {
   return (
-    <Fullname maxValue={50}/>
+    <Multiplication value={20}/>
   );
 }
 
