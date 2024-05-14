@@ -1,9 +1,9 @@
-import Fizzbuzz from './Fizzbuzz';
+import Fullname from './Fullname';
 import './App.css';
 
 function App() {
   return (
-    <Fizzbuzz maxValue={50}/>
+    <Fullname maxValue={50}/>
   );
 }
 
